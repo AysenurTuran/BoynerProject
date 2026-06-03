@@ -1,0 +1,1 @@
+﻿#ML Kısmını üstlenen kişi oluşturacak
